@@ -16,8 +16,8 @@ class APIContest {
   static String refCode = '';
   static String visaUrl = '$baseUrl/acceptance/iframes/804583?payment_token=$finalToken';
   
-  static String integrationIdKiosk = "4371072";
-  static String integrationIdCart = '4367420';
+  static String integrationIdKiosk = "enter ur IdKiosk";
+  static String integrationIdCart = 'enter ur IdCart';
 
 }
 
